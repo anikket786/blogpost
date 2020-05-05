@@ -24,7 +24,7 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
+    gitlab: https://invent.kde.org/aniketkumar
     github:  https://github.com/anikket786
     linkedIn: https://www.linkedin.com/in/anikketkumar786/
     rss: rss
