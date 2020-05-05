@@ -42,4 +42,5 @@ plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
 
-gems: - jekyll-sitemap
+gems: 
+  - jekyll-sitemap
