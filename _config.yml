@@ -1,10 +1,10 @@
 title: Aniket Kumar
 author: Aniket Kumar
-email: your-email@domain.com
+email: anikketkumar786@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm Aniket Kumar a computer Science Undergraduate and software developer 
+  contributing to KDE and KDEConnect which is an open source organization. 
+  I am a student of Google Summer of code (GSoC 2020).
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /blogpost
 
@@ -20,7 +20,7 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
